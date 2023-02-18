@@ -1,5 +1,4 @@
-# pagina-login-dark
-Página de Login criada com HTML + CSS com o tema dark a partir do tutorial "TELA DE LOGIN COM TEMA DARK | HTML + CSS" (Cortesia para @Markzuel no Youtube).
+
 
 (english)<br>
 Basically, this project was made based on an youtube tutorial by @Markzuel as a way to learn HTML/CSS and Web Development.
